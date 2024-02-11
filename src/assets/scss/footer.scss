@@ -1,0 +1,135 @@
+
+.footer_email {
+  color: #616161;
+  line-height: 2;
+  font-weight: 500;
+}
+
+.footer_phone {
+  color: #757575;
+  font-weight: 400;
+  line-height: 1.2rem;
+  letter-spacing: 0;
+  font-size: 1rem;
+}
+
+.social_ul {
+  display: inline-block;
+  padding-left: 0;
+  margin: 0 auto;
+  list-style: none;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.social_ul li {
+  width: auto !important;
+  display: inline-block !important;
+  vertical-align: top;
+  clear: none !important;
+  margin: 0 0 8px;
+  padding: 0;
+  text-decoration: none;
+}
+
+.social_ul a {
+  display: block;
+  background-color: transparent;
+  border: 2px solid #666;
+  width: 36px;
+  height: 36px;
+  color: #666;
+  font-size: 16px;
+  line-height: 34px !important;
+  margin-right: 4px;
+  border-radius: 100%;
+  text-decoration: none;
+
+}
+
+.footer_product ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.footer_product li {
+  font-size: 1rem;
+  width: auto !important;
+  display: block !important;
+  clear: none !important;
+  margin: 0 0 9px;
+  padding: 0;
+}
+
+.footer_product a {
+  color: #bdbdbd !important;
+  transition: all .4s ease-in-out;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.h5_product {
+  line-height: 1;
+  margin-bottom: 25px;
+  color: #fff;
+  font-family: Manrope, sans-serif;
+  font-weight: 600;
+  letter-spacing: -.5px;
+  font-size: 16px;
+}
+
+.footer_Subscribe p {
+  color: #757575;
+  font-weight: 400;
+  line-height: 1.2rem;
+  letter-spacing: 0;
+  margin-bottom: 8px;
+  font-size: .95rem;
+}
+
+.form_footer {
+  height: 48px;
+  background-color: #fff;
+  border: 1px solid #e5e8ee;
+  color: #3a4966;
+  font-size: 1rem;
+  padding: 0 15px;
+  border-radius: 4px 0 0 4px;
+  transition: all .4s ease-in-out;
+  border-radius: 8px;
+  margin-top: 18px;
+  width: 100%;
+}
+
+.border_footer {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 35px;
+  margin-bottom: 35px;
+  padding-top: 30px;
+  .footer_icon{
+      width: 127px;
+  filter: brightness(0) invert(1);
+  height: 45px;
+  margin-bottom: 20px;
+  }
+}
+
+.footer-copyright {
+  color: #757575;
+  font-weight: 400;
+  line-height: 1.2rem;
+  letter-spacing: 0;
+  font-size: .95rem;
+  margin-bottom: 40px;
+text-align: center;
+}
+
+.footer-copyright span {
+  font-weight: 700;
+}
+
+
+.total_footer{
+  background-color: #232323;
+}
