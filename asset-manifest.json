@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/kkkmartFrontend/static/css/main.ea40ef7d.css",
-    "main.js": "/kkkmartFrontend/static/js/main.97158c9b.js",
+    "main.js": "/kkkmartFrontend/static/js/main.0167d0b0.js",
     "static/js/787.ddf1a384.chunk.js": "/kkkmartFrontend/static/js/787.ddf1a384.chunk.js",
     "static/media/evgeny-tchebotarev-aiwuLjLPFnU-unsplash.jpg": "/kkkmartFrontend/static/media/evgeny-tchebotarev-aiwuLjLPFnU-unsplash.6da105a2c1de559911cc.jpg",
     "static/media/logo.svg": "/kkkmartFrontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/kkkmartFrontend/index.html",
     "main.ea40ef7d.css.map": "/kkkmartFrontend/static/css/main.ea40ef7d.css.map",
-    "main.97158c9b.js.map": "/kkkmartFrontend/static/js/main.97158c9b.js.map",
+    "main.0167d0b0.js.map": "/kkkmartFrontend/static/js/main.0167d0b0.js.map",
     "787.ddf1a384.chunk.js.map": "/kkkmartFrontend/static/js/787.ddf1a384.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea40ef7d.css",
-    "static/js/main.97158c9b.js"
+    "static/js/main.0167d0b0.js"
   ]
 }
