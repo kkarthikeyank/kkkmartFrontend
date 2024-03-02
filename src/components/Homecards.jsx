@@ -36,7 +36,13 @@ const Homecards = () => {
           <Link to={`/productdetails/${Productdata._id}`}>
           <div class="col" >
             <div class="card ">
-              <img src={carImage} class="card-img-top" alt="..." />
+              {Productdata?.images===''?(<>
+                <img src={carImage} class="card-img-top" alt="..." />
+              
+              </>):(<>
+                <img src={Productdata?.images} class="card-img-top" alt="..." />
+              
+              </>)}
               <div class="card-body">
                 <h3 class="card-title">{Productdata?.title}</h3>
                 <p class="card-text">{Productdata?.description}</p>
